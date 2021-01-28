@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **architecture, Deep Learning, frontend performance**
 
-- 📝 I regulary write articles on [https://habr.com/ru/users/dpereverza/](https://habr.com/ru/users/dpereverza/)
-
 - 📫 How to reach me **disel920@gmail.com**
 
 
