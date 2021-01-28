@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Dmitriy</h1>
 <h3 align="center">A senior frontend developer.</h3>
 
-- 🔭 I’m currently working in [WorkSolutions company](worksolutions.ru)
-
 - 🌱 I’m currently learning **architecture, Deep Learning, frontend performance**
 
 - 📫 How to reach me **disel920@gmail.com**
